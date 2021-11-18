@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 <!--
 **GareevaTanya/GareevaTanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Tanya - a junior java developer.
+
+I am currently looking for a remote job.
+
+Links:
+  - https://www.hackerrank.com/gar_t765
+
+📫 How to reach me: gar.t765@gmail.com
