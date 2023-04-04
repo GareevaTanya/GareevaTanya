@@ -19,7 +19,8 @@ I am Tanya - a junior java developer.
 
 I am currently looking for a remote job.
 
-Links:
+<!--Links:
   - https://www.hackerrank.com/gar_t765
+-->
 
 📫 How to reach me: gar.t765@gmail.com
